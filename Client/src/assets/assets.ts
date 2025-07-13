@@ -4,12 +4,9 @@ import gradientBackground from "./gradientBackground.png";
 import user_group from "./user_group.png";
 import star_icon from "./star_icon.svg";
 import star_dull_icon from "./star_dull_icon.svg";
-import profile_img_1 from "./profile_img_1.png";
+import profile_img_1 from "../assets/profile_img_1.png"
 import arrow_icon from "./arrow_icon.svg";
 import { SquarePen, Hash, Image, Eraser, Scissors, FileText } from 'lucide-react';
-
-
-import ai_gen_img_1 from "./ai_gen_img_1.png";
 import ai_gen_img_2 from "./ai_gen_img_2.png";
 import ai_gen_img_3 from "./ai_gen_img_3.png";
 import type { AiTool, Creation, Testimonial } from "../Interface/assest.interface";
@@ -140,7 +137,7 @@ export const dummyPublishedCreationData: Creation[] = [
     id: 1,
     user_id: "user_2yMX02PRbyMtQK6PebpjnxvRNIA",
     prompt: "Generate an image of A Boy is on Boat , and fishing in the style Anime style.",
-    content: ai_gen_img_1,
+    content: ai_gen_img_2,
     type: "image",
     publish: true,
     likes: [
