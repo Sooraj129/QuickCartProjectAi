@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
       <p className="text-base sm:text-lg md:text-xl text-black-800 max-w-2xl">
         Create amazing content with AI tools. Transform your content creation
         with our suite of premium AI tools — write articles, generate blog
-        titles, create stunning visuals, and much more.
+        titles, create stunning visuals, and much more. 
       </p>
 
       <div>
