@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
         <Button className="mt-8 bg-blue-700 text-white p-5 mr-2">
             Started Created Now 
         </Button>
-        <Button className="mt-8 bg-white text-black p-5">
+        <Button className="mt-8 bg-blue-600 text-white p-5">
             Watch Now 
         </Button>
       </div>
